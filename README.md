@@ -29,6 +29,18 @@ Due to licence of the Game the Reign of Giants DLC is required for this modifica
 
 ![screenshot.jpg](about%2Fscreenshot.jpg)
 
+## Installation
+
+Installation with Steam:
+- Click _Subscribe_ button and Steam will automatically download mod to the game files.
+- Activate mode within the game
+
+Manual Installation
+- Clone the repository
+- Create folder at %game_folder%/mods/craftable-catcoon-house/
+- Copy all files from _src_ folder to newly created folder
+- Activate mode within the game
+
 ## Stats
 
 Stats of the mod on Steam Workshop:
